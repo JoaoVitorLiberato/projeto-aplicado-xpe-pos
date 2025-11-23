@@ -179,7 +179,7 @@ export class OrderUseCase {
 ## 📁 Estrutura do Projeto
 
 ```
-bangalo-api-v2/
+restaurante-app/
 ├── src/
 │   ├── Application/              # Camada de Aplicação
 │   │   ├── Contracts/            # Interfaces/Contratos
@@ -234,7 +234,7 @@ bangalo-api-v2/
 1. **Clone o repositório:**
 ```bash
 git clone <repository-url>
-cd bangalo-api-v2
+cd restaurante-app
 ```
 
 2. **Instale as dependências:**
