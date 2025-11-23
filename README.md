@@ -1,4 +1,4 @@
-# 🍣 Bangalô API v2
+# API v1
 
 API RESTful desenvolvida para gerenciamento de restaurante, implementando Clean Architecture, princípios SOLID e padrões de design modernos.
 
