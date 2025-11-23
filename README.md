@@ -1,6 +1,6 @@
 # 🍣 Bangalô API v2
 
-API RESTful desenvolvida para gerenciamento de restaurante (Bangalô Sushi), implementando Clean Architecture, princípios SOLID e padrões de design modernos.
+API RESTful desenvolvida para gerenciamento de restaurante, implementando Clean Architecture, princípios SOLID e padrões de design modernos.
 
 ## 📋 Índice
 
