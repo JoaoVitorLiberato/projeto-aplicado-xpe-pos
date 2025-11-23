@@ -1,0 +1,24 @@
+{
+  "categoryId": "03421de4-183f-480b-b4d7-1b1aa02a17f3",
+  "name": "Temaki sem arroz de camarão",
+  "description": "1 unidade com arroz enrolado no nori em formato de cone com cream cheese, camarão e cebolinha.",
+  "note_client": 0,
+  "price": {
+    "default": 4999,
+    "discount": {
+      "status": false,
+      "percentage": 0
+    }
+  },
+  "tumbnail": {
+    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/15/86/0a/sashimi-de-salmao.jpg",
+    "upload": false
+  },
+  "differences": {
+    "especial": {
+      "readonly": false,
+      "status": false,    
+      "value": 1199
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "email": "joao@admin.com",
+  "password": "12345678",
+  "details": {
+    "name": "Test details",
+    "age": 18,
+    "phone": "21967559557",
+    "thumbnail": {
+      "location": "users",
+      "url": "",
+      "upload": false
+    }
+  }
+}

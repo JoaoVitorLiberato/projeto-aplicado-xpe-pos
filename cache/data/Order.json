@@ -1,0 +1,63 @@
+{
+  "canal": "web",
+  "segmento": "delivery",
+  "status": "pendente",
+  "nome": "João Vitor",
+  "telefone": "21967559557",
+  "endereco": {
+    "cep": "65272000",
+    "logradouro": "Rua teste",
+    "bairro": "Tente vir",
+    "cidade": "Santa Luzia do Paruá",
+    "uf": "MA",
+    "numero": "545",
+    "complemento": "teste apvPonto de referência: teste referencia",
+    "referencia": "teste referencia"
+  },
+  "mensagem": "",
+  "produtos": [
+    {
+        "id": "06628741-ef85-44e7-b584-e241ce846649",
+        "name": "Hot h'oll",
+        "price": 10669,
+        "quantity": 1,
+        "total": 10669,
+        "differences": {
+          "status": true,
+          "value": 1199
+        },
+        "complements": [
+        {
+            "id": "54215124-c2c1-4863-b157-62d96024a4fb",
+            "name": "Molho tarê",
+            "description": "Salada com molho tarê e pepinos a milanesa",
+            "price": 500,
+            "quantity": 1,
+            "total": 500
+        },
+        {
+            "id": "9c78f629-04aa-4955-9162-f13c3ff07990",
+            "name": "Molho tarê",
+            "description": "Salada com molho tarê e pepinos a milanesa",
+            "price": 500,
+            "quantity": 1,
+            "total": 500
+        }
+        ]
+    }
+  ],
+  "pagamento": {
+    "valorFrete": 500,
+    "valorProdutos": 8598,
+    "statusPagamento": "pendente",
+    "valorTotal": 9098,
+    "formaPagamento": "Pix",
+    "desconto": 0
+  },
+  "analytics": {
+    "campaign": "",
+    "medium": "",
+    "source": "",
+    "params": {}
+  }
+}
